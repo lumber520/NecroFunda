@@ -67,39 +67,45 @@
   "games": [
     {
       "id": 100,
-      "intro": "",
-      "description": "Find your new feline friend at this event.",
-      "img-src": ""
+      "intro": "Game intro text here",
+      "description": ["Full game report text here",
+                     "Full game report text here"],
+      "imgSrc": ""
     },
     {
       "id": 101,
-      "intro": "",
-      "description": "Find your new feline friend at this event.",
-      "img-src": ""
+      "intro": "Game intro text here",
+     "description": ["Full game report text here",
+                     "Full game report text here"],
+      "imgSrc": ""
     },
     {
       "id": 102,
-      "intro": "",
-      "description": "Find your new feline friend at this event.",
-      "img-src": ""
+      "intro": "Game intro text here",
+      "description": ["Full game report text here",
+                     "Full game report text here"],
+      "imgSrc": ""
     },
     {
       "id": 103,
-      "intro": "",
-      "description": "Find your new feline friend at this event.",
-      "img-src": ""
+      "intro": "Game intro text here",
+       "description": ["Full game report text here",
+                     "Full game report text here"],
+      "imgSrc": ""
     },
     {
       "id": 104,
-      "intro": "",
-      "description": "Find your new feline friend at this event.",
-      "img-src": ""
+      "intro": "Game intro text here",
+       "description": ["Full game report text here",
+                     "Full game report text here"],
+      "imgSrc": ""
     },
     {
       "id": 105,
-      "intro": "",
-      "description": "Find your new feline friend at this event.",
-      "img-src": ""
+      "intro": "Game intro text here",
+       "description": ["Full game report text here",
+                      "Full game report text here"],
+      "imgSrc": ""
     }
   ],
   "gangs": [
