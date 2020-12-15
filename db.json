@@ -1,19 +1,19 @@
 {
-"vox": [
+  "vox": [
     {
-      "id": 001, 
+      "id": 10,
       "news": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
     },
     {
-      "id": 002,
-       "news": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+      "id": 11,
+      "news": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
     },
     {
-      "id": 003,
-       "news": "Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      "id": 12,
+      "news": "Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
     },
     {
-      "id": 004,
+      "id": 13 ,
       "news": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
     }
   ],
@@ -36,9 +36,9 @@
       "warmonger": 0,
       "powerBroker": 0
     },
-  {
+    {
       "id": 3,
-      "name": "Player 3
+      "name": "Player 3",
       "dominator": 0,
       "slaughterer": 0,
       "creditor": 0,
@@ -47,62 +47,61 @@
     },
     {
       "id": 4,
-      "name": "Player 4,
+      "name": "Player 4",
       "dominator": 0,
       "slaughterer": 0,
       "creditor": 0,
       "warmonger": 0,
       "powerBroker": 0
     },
-     {
+    {
       "id": 5,
-      "name": "Player 5
+      "name": "Player 5",
       "dominator": 0,
       "slaughterer": 0,
       "creditor": 0,
       "warmonger": 0,
       "powerBroker": 0
     }
-  ]
-"games": [
+  ],
+  "games": [
     {
       "id": 100,
-      "intro":"",
+      "intro": "",
       "description": "Find your new feline friend at this event.",
-      "img-src""  
+      "img-src": ""
     },
     {
       "id": 101,
-       "intro":"",
+      "intro": "",
       "description": "Find your new feline friend at this event.",
-      "img-src""  
+      "img-src": ""
     },
     {
       "id": 102,
-       "intro":"",
+      "intro": "",
       "description": "Find your new feline friend at this event.",
-      "img-src":""  
+      "img-src": ""
     },
-     {
+    {
       "id": 103,
-       "intro":"",
+      "intro": "",
       "description": "Find your new feline friend at this event.",
-     "img-src":"" 
+      "img-src": ""
     },
-     {
+    {
       "id": 104,
-       "intro":"",
+      "intro": "",
       "description": "Find your new feline friend at this event.",
-      "img-src":""
+      "img-src": ""
     },
-     {
+    {
       "id": 105,
-       "intro":"",
+      "intro": "",
       "description": "Find your new feline friend at this event.",
-     "img-src":""
-    },
+      "img-src": ""
+    }
   ],
-
   "gangs": [
     {
       "id": 50,
@@ -115,8 +114,8 @@
       "img-src": "",
       "title": "Vansaar",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus",
-            "orderImg": "order-lg-2",
-          "orderText": "order-lg-1" 
+      "orderImg": "order-lg-2",
+      "orderText": "order-lg-1"
     },
     {
       "id": 52,
@@ -124,19 +123,19 @@
       "title": "Enforcers",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
     },
-   {
+    {
       "id": 53,
       "img-src": "",
       "title": "Drlock",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
-             "orderImg": "order-lg-2",
-          "orderText": "order-lg-1" 
+      "orderImg": "order-lg-2",
+      "orderText": "order-lg-1"
     },
     {
       "id": 54,
       "img-src": "",
       "title": "Goliath",
       "description": "`Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
-    },
+    }
   ]
 }
