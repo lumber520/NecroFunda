@@ -22,7 +22,7 @@
       "id": 1,
       "name": "Sons of Norgyr",
       "dominator": 0,
-      "slaughterer": 0
+      "slaughterer": 0,
       "creditor": 0,
       "warmonger": 0,
       "powerBroker": 0
@@ -31,7 +31,7 @@
       "id": 2,
       "name": "Player 2",
       "dominator": 0,
-      "slaughterer": 0
+      "slaughterer": 0,
       "creditor": 0,
       "warmonger": 0,
       "powerBroker": 0
@@ -40,7 +40,7 @@
       "id": 3,
       "name": "Player 3
       "dominator": 0,
-      "slaughterer": 0
+      "slaughterer": 0,
       "creditor": 0,
       "warmonger": 0,
       "powerBroker": 0
@@ -81,25 +81,25 @@
       "id": 102,
        "intro":"",
       "description": "Find your new feline friend at this event.",
-      "img-src""  
+      "img-src":""  
     },
      {
       "id": 103,
        "intro":"",
       "description": "Find your new feline friend at this event.",
-      "img-src""  
+     "img-src":"" 
     },
      {
       "id": 104,
        "intro":"",
       "description": "Find your new feline friend at this event.",
-      "img-src""  
+      "img-src":""
     },
      {
       "id": 105,
        "intro":"",
       "description": "Find your new feline friend at this event.",
-      "img-src""  
+     "img-src":""
     },
   ],
 
@@ -114,8 +114,7 @@
       "id": 51,
       "img-src": "",
       "title": "Vansaar",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus",
             "orderImg": "order-lg-2",
           "orderText": "order-lg-1" 
     },
@@ -123,15 +122,13 @@
       "id": 52,
       "img-src": "",
       "title": "Enforcers",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
     },
    {
       "id": 53,
       "img-src": "",
       "title": "Drlock",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
              "orderImg": "order-lg-2",
           "orderText": "order-lg-1" 
     },
@@ -139,8 +136,7 @@
       "id": 54,
       "img-src": "",
       "title": "Goliath",
-      "description": "`Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      "description": "`Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
     },
   ]
 }
